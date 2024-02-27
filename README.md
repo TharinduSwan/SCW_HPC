@@ -1,3 +1,11 @@
+Login to SCW
+Use terminal (Command prompt)
+ssh s.2252415@sunbird.swansea.ac.uk 
+y
+PW >> UniPW
+
+
+
 For filezilla
 Host >> sftp://sunbird.swansea.ac.uk 
 Username >> s.2252415
